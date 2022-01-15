@@ -1,0 +1,26 @@
+# ninja log v5
+12	374	6638520234623900	CMakeFiles/ObjectOrientedHW.dir/container.cpp.obj	4605052cccecc3ec
+3	292	6638511581346917	CMakeFiles/ObjectOrientedHW.dir/train.cpp.obj	7f61c1c14e2de622
+34	433	6638511334490025	CMakeFiles/ObjectOrientedHW.dir/plane.cpp.obj	a1e92d9a24d1759f
+68	451	6638511334680076	CMakeFiles/ObjectOrientedHW.dir/vehicle.cpp.obj	d9782ef189ec3cc8
+19	351	6638520234386242	CMakeFiles/ObjectOrientedHW.dir/ship.cpp.obj	b9af2de8b9edc22f
+3	353	6638520234386242	CMakeFiles/ObjectOrientedHW.dir/main.cpp.obj	2943e825b97a3b93
+374	505	6638520235924197	ObjectOrientedHW.exe	359262973e137bbc
+2	367	6638525446933840	CMakeFiles/ObjectOrientedHW.dir/container.cpp.obj	9b41d158fa37bf6e
+18	369	6638525446954024	CMakeFiles/ObjectOrientedHW.dir/vehicle.cpp.obj	ebca44772225e938
+49	386	6638525447134116	CMakeFiles/ObjectOrientedHW.dir/train.cpp.obj	bce46613647a7857
+27	393	6638525447134116	CMakeFiles/ObjectOrientedHW.dir/ship.cpp.obj	a4cee9377dd90b84
+10	403	6638525447234131	CMakeFiles/ObjectOrientedHW.dir/main.cpp.obj	cb507124c0b98eb3
+66	407	6638525447334120	CMakeFiles/ObjectOrientedHW.dir/plane.cpp.obj	c45666884d9817d6
+408	784	6638525451056156	ObjectOrientedHW.exe	868b1fe5bf2899b
+11	341	6638539058847064	CMakeFiles/ObjectOrientedHW.dir/container.cpp.obj	9b41d158fa37bf6e
+2	365	6638539059087116	CMakeFiles/ObjectOrientedHW.dir/main.cpp.obj	cb507124c0b98eb3
+365	715	6638539062547905	ObjectOrientedHW.exe	868b1fe5bf2899b
+2	318	6638547994361398	CMakeFiles/ObjectOrientedHW.dir/main.cpp.obj	cb507124c0b98eb3
+10	333	6638547994461249	CMakeFiles/ObjectOrientedHW.dir/container.cpp.obj	9b41d158fa37bf6e
+333	679	6638547997865407	ObjectOrientedHW.exe	868b1fe5bf2899b
+3	502	6638595842746585	CMakeFiles/ObjectOrientedHW.dir/main.cpp.obj	cb507124c0b98eb3
+502	897	6638595846650790	ObjectOrientedHW.exe	868b1fe5bf2899b
+11	309	6638604032973492	CMakeFiles/ObjectOrientedHW.dir/ship.cpp.obj	a4cee9377dd90b84
+2	325	6638604033153520	CMakeFiles/ObjectOrientedHW.dir/container.cpp.obj	9b41d158fa37bf6e
+326	672	6638604036572378	ObjectOrientedHW.exe	868b1fe5bf2899b

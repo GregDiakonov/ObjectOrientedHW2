@@ -1,0 +1,400 @@
+Ship
+Speed: 533
+Way Length: 67
+Ideal time of arrival: 0.125704
+Tonnage: 762
+Ship type: Tanker
+
+Ship
+Speed: 406
+Way Length: 93
+Ideal time of arrival: 0.229064
+Tonnage: 520
+Ship type: Tanker
+
+Ship
+Speed: 750
+Way Length: 1085
+Ideal time of arrival: 1.44667
+Tonnage: 1894
+Ship type: Tanker
+
+Train
+Speed: 780
+Way Length: 1529
+Ideal time of arrival: 1.96026
+Wagon Number: 976
+
+Ship
+Speed: 706
+Way Length: 1437
+Ideal time of arrival: 2.03541
+Tonnage: 824
+Ship type: Tanker
+
+Train
+Speed: 577
+Way Length: 1454
+Ideal time of arrival: 2.51993
+Wagon Number: 438
+
+Plane
+Speed: 159
+Way Length: 407
+Ideal time of arrival: 2.55975
+Capacity: 136
+Flight Radius: 9539
+
+Plane
+Speed: 898
+Way Length: 2883
+Ideal time of arrival: 3.21047
+Capacity: 96
+Flight Radius: 1031
+
+Plane
+Speed: 949
+Way Length: 3435
+Ideal time of arrival: 3.6196
+Capacity: 119
+Flight Radius: 3437
+
+Ship
+Speed: 310
+Way Length: 1140
+Ideal time of arrival: 3.67742
+Tonnage: 99
+Ship type: Tanker
+
+Train
+Speed: 426
+Way Length: 1860
+Ideal time of arrival: 4.3662
+Wagon Number: 161
+
+Ship
+Speed: 181
+Way Length: 812
+Ideal time of arrival: 4.48619
+Tonnage: 1389
+Ship type: Liner
+
+Ship
+Speed: 918
+Way Length: 4269
+Ideal time of arrival: 4.65033
+Tonnage: 1930
+Ship type: Liner
+
+Train
+Speed: 284
+Way Length: 1415
+Ideal time of arrival: 4.98239
+Wagon Number: 1995
+
+Plane
+Speed: 524
+Way Length: 2644
+Ideal time of arrival: 5.0458
+Capacity: 80
+Flight Radius: 7807
+
+Plane
+Speed: 915
+Way Length: 5352
+Ideal time of arrival: 5.84918
+Capacity: 36
+Flight Radius: 3044
+
+Ship
+Speed: 752
+Way Length: 4451
+Ideal time of arrival: 5.91888
+Tonnage: 914
+Ship type: Liner
+
+Ship
+Speed: 374
+Way Length: 2442
+Ideal time of arrival: 6.52941
+Tonnage: 1586
+Ship type: Liner
+
+Train
+Speed: 762
+Way Length: 5560
+Ideal time of arrival: 7.29659
+Wagon Number: 748
+
+Train
+Speed: 200
+Way Length: 1526
+Ideal time of arrival: 7.63
+Wagon Number: 789
+
+Plane
+Speed: 889
+Way Length: 7036
+Ideal time of arrival: 7.91451
+Capacity: 97
+Flight Radius: 4372
+
+Plane
+Speed: 490
+Way Length: 3915
+Ideal time of arrival: 7.9898
+Capacity: 172
+Flight Radius: 1948
+
+Plane
+Speed: 596
+Way Length: 4835
+Ideal time of arrival: 8.11242
+Capacity: 138
+Flight Radius: 2940
+
+Ship
+Speed: 911
+Way Length: 7401
+Ideal time of arrival: 8.12404
+Tonnage: 465
+Ship type: Tanker
+
+Ship
+Speed: 615
+Way Length: 5274
+Ideal time of arrival: 8.57561
+Tonnage: 377
+Ship type: Liner
+
+Train
+Speed: 787
+Way Length: 7517
+Ideal time of arrival: 9.55146
+Wagon Number: 705
+
+Plane
+Speed: 713
+Way Length: 7059
+Ideal time of arrival: 9.90042
+Capacity: 142
+Flight Radius: 6214
+
+Plane
+Speed: 772
+Way Length: 7923
+Ideal time of arrival: 10.263
+Capacity: 5
+Flight Radius: 3577
+
+Train
+Speed: 861
+Way Length: 9905
+Ideal time of arrival: 11.5041
+Wagon Number: 708
+
+Plane
+Speed: 832
+Way Length: 9981
+Ideal time of arrival: 11.9964
+Capacity: 46
+Flight Radius: 2092
+
+Train
+Speed: 786
+Way Length: 9472
+Ideal time of arrival: 12.0509
+Wagon Number: 571
+
+Plane
+Speed: 576
+Way Length: 7062
+Ideal time of arrival: 12.2604
+Capacity: 70
+Flight Radius: 8171
+
+Train
+Speed: 724
+Way Length: 9240
+Ideal time of arrival: 12.7624
+Wagon Number: 1123
+
+Train
+Speed: 689
+Way Length: 8852
+Ideal time of arrival: 12.8476
+Wagon Number: 1821
+
+Ship
+Speed: 450
+Way Length: 6014
+Ideal time of arrival: 13.3644
+Tonnage: 913
+Ship type: Tanker
+
+Ship
+Speed: 489
+Way Length: 6617
+Ideal time of arrival: 13.5317
+Tonnage: 998
+Ship type: Tanker
+
+Train
+Speed: 219
+Way Length: 3000
+Ideal time of arrival: 13.6986
+Wagon Number: 1403
+
+Ship
+Speed: 624
+Way Length: 8980
+Ideal time of arrival: 14.391
+Tonnage: 607
+Ship type: Tugboat
+
+Train
+Speed: 576
+Way Length: 8973
+Ideal time of arrival: 15.5781
+Wagon Number: 1279
+
+Train
+Speed: 221
+Way Length: 3459
+Ideal time of arrival: 15.6516
+Wagon Number: 916
+
+Ship
+Speed: 87
+Way Length: 1393
+Ideal time of arrival: 16.0115
+Tonnage: 1846
+Ship type: Tugboat
+
+Train
+Speed: 316
+Way Length: 5206
+Ideal time of arrival: 16.4747
+Wagon Number: 393
+
+Plane
+Speed: 372
+Way Length: 6339
+Ideal time of arrival: 17.0403
+Capacity: 42
+Flight Radius: 2100
+
+Plane
+Speed: 444
+Way Length: 8313
+Ideal time of arrival: 18.723
+Capacity: 78
+Flight Radius: 9057
+
+Train
+Speed: 171
+Way Length: 3294
+Ideal time of arrival: 19.2632
+Wagon Number: 1572
+
+Train
+Speed: 427
+Way Length: 8342
+Ideal time of arrival: 19.5363
+Wagon Number: 97
+
+Plane
+Speed: 18
+Way Length: 365
+Ideal time of arrival: 20.2778
+Capacity: 39
+Flight Radius: 8520
+
+Plane
+Speed: 403
+Way Length: 8229
+Ideal time of arrival: 20.4194
+Capacity: 32
+Flight Radius: 5832
+
+Train
+Speed: 331
+Way Length: 6770
+Ideal time of arrival: 20.4532
+Wagon Number: 13
+
+Plane
+Speed: 329
+Way Length: 6771
+Ideal time of arrival: 20.5805
+Capacity: 5
+Flight Radius: 4959
+
+Plane
+Speed: 151
+Way Length: 4643
+Ideal time of arrival: 30.7483
+Capacity: 10
+Flight Radius: 1424
+
+Ship
+Speed: 209
+Way Length: 6602
+Ideal time of arrival: 31.5885
+Tonnage: 5
+Ship type: Tanker
+
+Ship
+Speed: 66
+Way Length: 2858
+Ideal time of arrival: 43.303
+Tonnage: 255
+Ship type: Tanker
+
+Train
+Speed: 171
+Way Length: 7832
+Ideal time of arrival: 45.8012
+Wagon Number: 1079
+
+Ship
+Speed: 57
+Way Length: 3957
+Ideal time of arrival: 69.4211
+Tonnage: 1401
+Ship type: Tanker
+
+Plane
+Speed: 130
+Way Length: 9337
+Ideal time of arrival: 71.8231
+Capacity: 64
+Flight Radius: 6939
+
+Train
+Speed: 53
+Way Length: 5531
+Ideal time of arrival: 104.358
+Wagon Number: 881
+
+Plane
+Speed: 65
+Way Length: 7381
+Ideal time of arrival: 113.554
+Capacity: 21
+Flight Radius: 7325
+
+Plane
+Speed: 50
+Way Length: 6244
+Ideal time of arrival: 124.88
+Capacity: 157
+Flight Radius: 8531
+
+Plane
+Speed: 53
+Way Length: 7403
+Ideal time of arrival: 139.679
+Capacity: 9
+Flight Radius: 5841
+
